@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Justlogix/static/css/main.801cb73b.css",
+    "main.css": "/Justlogix/static/css/main.9d602edf.css",
     "main.js": "/Justlogix/static/js/main.671c42cb.js",
     "static/js/787.785a4c54.chunk.js": "/Justlogix/static/js/787.785a4c54.chunk.js",
     "static/media/fullstack.jpg": "/Justlogix/static/media/fullstack.971442c4d1f31989d81c.jpg",
@@ -49,12 +49,12 @@
     "static/media/slick.ttf": "/Justlogix/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Justlogix/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Justlogix/index.html",
-    "main.801cb73b.css.map": "/Justlogix/static/css/main.801cb73b.css.map",
+    "main.9d602edf.css.map": "/Justlogix/static/css/main.9d602edf.css.map",
     "main.671c42cb.js.map": "/Justlogix/static/js/main.671c42cb.js.map",
     "787.785a4c54.chunk.js.map": "/Justlogix/static/js/787.785a4c54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.801cb73b.css",
+    "static/css/main.9d602edf.css",
     "static/js/main.671c42cb.js"
   ]
 }
