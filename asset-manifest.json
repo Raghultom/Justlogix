@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Justlogix/static/css/main.a7772a74.css",
-    "main.js": "/Justlogix/static/js/main.3b476a4e.js",
+    "main.css": "/Justlogix/static/css/main.09df564c.css",
+    "main.js": "/Justlogix/static/js/main.f9a8be73.js",
     "static/js/787.785a4c54.chunk.js": "/Justlogix/static/js/787.785a4c54.chunk.js",
     "static/media/fullstack.jpg": "/Justlogix/static/media/fullstack.971442c4d1f31989d81c.jpg",
     "static/media/team3.jpg": "/Justlogix/static/media/team3.fa006ba4596c5e2e623b.jpg",
@@ -48,12 +48,12 @@
     "static/media/slick.ttf": "/Justlogix/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Justlogix/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Justlogix/index.html",
-    "main.a7772a74.css.map": "/Justlogix/static/css/main.a7772a74.css.map",
-    "main.3b476a4e.js.map": "/Justlogix/static/js/main.3b476a4e.js.map",
+    "main.09df564c.css.map": "/Justlogix/static/css/main.09df564c.css.map",
+    "main.f9a8be73.js.map": "/Justlogix/static/js/main.f9a8be73.js.map",
     "787.785a4c54.chunk.js.map": "/Justlogix/static/js/787.785a4c54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7772a74.css",
-    "static/js/main.3b476a4e.js"
+    "static/css/main.09df564c.css",
+    "static/js/main.f9a8be73.js"
   ]
 }
