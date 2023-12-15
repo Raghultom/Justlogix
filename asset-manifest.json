@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Justlogix/static/css/main.09df564c.css",
-    "main.js": "/Justlogix/static/js/main.fce10080.js",
+    "main.js": "/Justlogix/static/js/main.f002ec51.js",
     "static/js/787.785a4c54.chunk.js": "/Justlogix/static/js/787.785a4c54.chunk.js",
     "static/media/fullstack.jpg": "/Justlogix/static/media/fullstack.971442c4d1f31989d81c.jpg",
     "static/media/team3.jpg": "/Justlogix/static/media/team3.fa006ba4596c5e2e623b.jpg",
@@ -49,11 +49,11 @@
     "static/media/slick.woff": "/Justlogix/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Justlogix/index.html",
     "main.09df564c.css.map": "/Justlogix/static/css/main.09df564c.css.map",
-    "main.fce10080.js.map": "/Justlogix/static/js/main.fce10080.js.map",
+    "main.f002ec51.js.map": "/Justlogix/static/js/main.f002ec51.js.map",
     "787.785a4c54.chunk.js.map": "/Justlogix/static/js/787.785a4c54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09df564c.css",
-    "static/js/main.fce10080.js"
+    "static/js/main.f002ec51.js"
   ]
 }
